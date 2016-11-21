@@ -17,9 +17,7 @@
     {
       "basePath": "dist",
       "files": [
-        "pixi.js",
-        "pixi.min.js",
-        "pixi.min.js.map"
+        "**/*"
       ]
     }
   ],
