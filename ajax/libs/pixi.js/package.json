@@ -15,10 +15,11 @@
   "npmName": "pixi.js",
   "npmFileMap": [
     {
-      "basePath": "bin",
+      "basePath": "dist",
       "files": [
         "pixi.js",
-        "pixi.dev.js"
+        "pixi.min.js",
+        "pixi.min.js.map"
       ]
     }
   ],
